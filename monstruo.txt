@@ -1,4 +1,4 @@
 Cabeza normal 
-Cabeza con casco de acero 
-... con ojos de rayo laser 
+Cabeza con casco de acero con ojos de rayo laser 
 Torso con corazón mecanico y armadura de titanio
+Piernas con propulsores de acero
